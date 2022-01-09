@@ -1,0 +1,31 @@
+.navbar{
+	background-color: #1637F2;
+}
+
+.collapse .navbar-nav .nav-item a{
+	color: white;
+}
+
+.quem-somos{
+	background-color: #3D4367;
+	color: white;
+}
+
+.quem-somos h3{
+	padding-top: 15px;
+}
+
+.margin{
+	padding-bottom: 50px;
+	padding-top: 10px;
+}
+
+.parceiros{
+	background-color: #1637F2;
+	color: white;
+}
+
+.bg-footer{
+	background-color: #F0ECE7;
+	color: darkblue;
+}
